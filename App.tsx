@@ -1,5 +1,5 @@
-import MMACareer from "@/components/CarriereMMA";
-import "@/storage";
+import MMACareer from "./CarriereMMA";
+import "./storage";
 
 function App() {
   return <MMACareer />;
